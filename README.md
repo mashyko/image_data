@@ -2,7 +2,9 @@
 
 a collection of images for computer vision:
 
-image classification and object detection
+classification: data for image classification
 
-neural style transfer and fast neural style transfer
+objectdetection: data for object detection
+
+img, style: data for neural style transfer and fast neural style transfer
 
